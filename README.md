@@ -6,5 +6,15 @@
 - GnuMake
 
 # how to.
-download Makefile from releases.
 
+change subdirectory
+
+```
+make extract
+```
+
+then
+
+```
+make launch
+```
